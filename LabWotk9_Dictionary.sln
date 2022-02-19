@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWotk9_Dictionary", "LabWotk9_Dictionary\LabWotk9_Dictionary.csproj", "{B11B8AD0-100F-431B-8137-9D7F6540855D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11B8AD0-100F-431B-8137-9D7F6540855D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11B8AD0-100F-431B-8137-9D7F6540855D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11B8AD0-100F-431B-8137-9D7F6540855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11B8AD0-100F-431B-8137-9D7F6540855D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15B46FA-4A44-4B84-9407-DE4588D4EB33}
+	EndGlobalSection
+EndGlobal
